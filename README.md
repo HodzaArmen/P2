@@ -1,2 +1,2 @@
 # P2
-Java
+1. Letnik FRI-ja. Naloge iz JAVE.
